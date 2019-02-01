@@ -10,4 +10,4 @@ This is personal react-native android mobile app project designed to track recor
 # Major Tech Used
 * React-Native (javascript) and Firebase.
 # ScreenShot
-![ScreenShot](shopApp.png)
+[ScreenShot](shopApp.png)
