@@ -1,7 +1,7 @@
 import * as firebase from 'firebase';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBecpHAfAXJ3rIG0N-fLPcXS4unlFseK0w",
+    apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     authDomain: "dr-plaza.firebaseapp.com",
     databaseURL: "https://dr-plaza.firebaseio.com",
     projectId: "dr-plaza",
